@@ -1,0 +1,25 @@
+
+   .filter-button a:hover{
+        color: #e0e08; 
+    }
+    .gallery-top-text li a{ 
+        border: 1px solid #797979; 
+        padding: 8px 15px;
+        border-radius: 50px; 
+        color: #797979;    
+        display: inline-block;    
+        margin: 3px 0;
+        
+    }  
+	.filter-button.active{
+	    background: #797979; 
+	    color: #fff;
+	    
+	}
+	.filter {
+	    border: 1px solid #fff; 
+	    
+	}
+    .gallery-top-text{
+        justify-content: center;
+    }
