@@ -1,4 +1,7 @@
 # My Daily Trends - Research Project by Alexis Echano
+A social media trend and post aggregator to keeping up to date with the latest trends and news strories easier.
+
+
 Senior Thesis in the Mobile/Web App Development Lab at TJHSST --> [Link to project](https://user.tjhsst.edu/2020aechano/home "My Daily Trends")
 Main file is SERVER.PY
 
